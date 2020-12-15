@@ -24,7 +24,7 @@ mybatis-plus:
   mapper-locations: classpath*:/mapper/*.xml
 
 alioss:
-  endpoint: https://oss-cn-shenzhen.aliyuncs.com
-  accessKeyId: LTAI4Fz4jX8FB2s7uUZYbWeP
-  accessKeySecret: 8jBNz3wxhrSaNyof3V710Mlo9Oyh4K
-  bucketName: managers
+  endpoint: #你的endpoint
+  accessKeyId: #你的accessKeyId
+  accessKeySecret: #你的accessKeySecret
+  bucketName: #你的bucketName
