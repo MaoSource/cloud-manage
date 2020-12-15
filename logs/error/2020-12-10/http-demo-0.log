@@ -1,0 +1,44 @@
+2020-12-10 14:10:54.660 [http-nio-8081-exec-10] ERROR com.source.config.GlobalExceptionHandler - null
+2020-12-10 14:11:16.133 [http-nio-8081-exec-8] ERROR com.source.config.GlobalExceptionHandler - null
+2020-12-10 14:11:18.182 [http-nio-8081-exec-1] ERROR com.source.config.GlobalExceptionHandler - null
+2020-12-10 17:48:09.024 [http-nio-8081-exec-1] ERROR com.source.config.GlobalExceptionHandler - String index out of range: -1
+2020-12-10 17:48:12.400 [http-nio-8081-exec-2] ERROR com.source.config.GlobalExceptionHandler - Request method 'DELETE' not supported
+2020-12-10 17:48:29.522 [http-nio-8081-exec-3] ERROR com.source.config.GlobalExceptionHandler - String index out of range: -1
+2020-12-10 17:48:33.783 [http-nio-8081-exec-4] ERROR com.source.config.GlobalExceptionHandler - Request method 'DELETE' not supported
+2020-12-10 17:49:34.679 [http-nio-8081-exec-6] ERROR com.source.config.GlobalExceptionHandler - String index out of range: -1
+2020-12-10 17:49:41.968 [http-nio-8081-exec-7] ERROR com.source.config.GlobalExceptionHandler - Request method 'DELETE' not supported
+2020-12-10 17:50:30.801 [http-nio-8081-exec-8] ERROR com.source.config.GlobalExceptionHandler - String index out of range: -1
+2020-12-10 17:51:37.100 [http-nio-8081-exec-1] ERROR com.source.config.GlobalExceptionHandler - Request method 'DELETE' not supported
+2020-12-10 17:51:46.011 [http-nio-8081-exec-2] ERROR com.source.config.GlobalExceptionHandler - String index out of range: -1
+2020-12-10 17:53:14.895 [http-nio-8081-exec-4] ERROR com.source.config.GlobalExceptionHandler - Request method 'DELETE' not supported
+2020-12-10 17:53:21.113 [http-nio-8081-exec-5] ERROR com.source.config.GlobalExceptionHandler - String index out of range: -1
+2020-12-10 17:53:23.690 [http-nio-8081-exec-10] ERROR com.source.config.GlobalExceptionHandler - Request method 'DELETE' not supported
+2020-12-10 17:53:56.938 [http-nio-8081-exec-7] ERROR com.source.config.GlobalExceptionHandler - String index out of range: -1
+2020-12-10 17:58:15.496 [http-nio-8081-exec-6] ERROR com.source.config.GlobalExceptionHandler - String index out of range: -1
+2020-12-10 17:59:31.530 [http-nio-8081-exec-2] ERROR com.source.config.GlobalExceptionHandler - String index out of range: -1
+2020-12-10 18:10:25.586 [http-nio-8081-exec-5] ERROR com.source.config.GlobalExceptionHandler - String index out of range: -1
+2020-12-10 18:10:27.481 [http-nio-8081-exec-10] ERROR com.source.config.GlobalExceptionHandler - Request method 'DELETE' not supported
+2020-12-10 19:09:44.856 [http-nio-8081-exec-8] ERROR com.source.config.GlobalExceptionHandler - Request method 'POST' not supported
+2020-12-10 19:11:08.643 [http-nio-8081-exec-2] ERROR com.source.config.GlobalExceptionHandler - String index out of range: -1
+2020-12-10 19:11:12.556 [http-nio-8081-exec-4] ERROR com.source.config.GlobalExceptionHandler - Request method 'DELETE' not supported
+2020-12-10 19:11:33.551 [http-nio-8081-exec-5] ERROR com.source.config.GlobalExceptionHandler - String index out of range: -1
+2020-12-10 19:12:43.841 [http-nio-8081-exec-2] ERROR com.source.config.GlobalExceptionHandler - String index out of range: -1
+2020-12-10 19:12:45.321 [http-nio-8081-exec-3] ERROR com.source.config.GlobalExceptionHandler - Request method 'DELETE' not supported
+2020-12-10 19:13:00.656 [http-nio-8081-exec-4] ERROR com.source.config.GlobalExceptionHandler - String index out of range: -1
+2020-12-10 19:13:03.061 [http-nio-8081-exec-5] ERROR com.source.config.GlobalExceptionHandler - Request method 'DELETE' not supported
+2020-12-10 19:14:24.159 [http-nio-8081-exec-7] ERROR com.source.config.GlobalExceptionHandler - String index out of range: -1
+2020-12-10 19:14:26.653 [http-nio-8081-exec-8] ERROR com.source.config.GlobalExceptionHandler - Request method 'DELETE' not supported
+2020-12-10 19:29:40.530 [http-nio-8081-exec-2] ERROR com.source.config.GlobalExceptionHandler - String index out of range: -1
+2020-12-10 19:29:45.175 [http-nio-8081-exec-4] ERROR com.source.config.GlobalExceptionHandler - Request method 'DELETE' not supported
+2020-12-10 19:30:19.030 [http-nio-8081-exec-6] ERROR com.source.config.GlobalExceptionHandler - String index out of range: -1
+2020-12-10 19:30:24.146 [http-nio-8081-exec-7] ERROR com.source.config.GlobalExceptionHandler - Request method 'DELETE' not supported
+2020-12-10 19:30:31.859 [http-nio-8081-exec-8] ERROR com.source.config.GlobalExceptionHandler - Request method 'GET' not supported
+2020-12-10 19:44:40.606 [http-nio-8081-exec-9] ERROR com.source.config.GlobalExceptionHandler - String index out of range: -1
+2020-12-10 19:44:47.828 [http-nio-8081-exec-1] ERROR com.source.config.GlobalExceptionHandler - Request method 'DELETE' not supported
+2020-12-10 19:56:25.994 [http-nio-8081-exec-4] ERROR com.source.config.GlobalExceptionHandler - String index out of range: -1
+2020-12-10 19:57:12.564 [http-nio-8081-exec-3] ERROR com.source.config.GlobalExceptionHandler - String index out of range: -1
+2020-12-10 19:57:14.303 [http-nio-8081-exec-2] ERROR com.source.config.GlobalExceptionHandler - Request method 'DELETE' not supported
+2020-12-10 19:58:57.967 [http-nio-8081-exec-5] ERROR com.source.config.GlobalExceptionHandler - String index out of range: -1
+2020-12-10 19:59:16.607 [http-nio-8081-exec-6] ERROR com.source.config.GlobalExceptionHandler - String index out of range: -1
+2020-12-10 19:59:32.289 [http-nio-8081-exec-7] ERROR com.source.config.GlobalExceptionHandler - String index out of range: -1
+2020-12-10 20:06:09.603 [http-nio-8081-exec-1] ERROR com.source.config.GlobalExceptionHandler - Required request part 'file' is not present

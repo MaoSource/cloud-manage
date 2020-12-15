@@ -1,0 +1,297 @@
+2020-12-09 09:14:08.809 [INFO ] com.source.boot - Starting boot on DESKTOP-5EB3B7K with PID 20152 (E:\source\cloud-manage\manage-web\target\classes started by MI in E:\source\cloud-manage)
+2020-12-09 09:14:08.813 [INFO ] com.source.boot - No active profile set, falling back to default profiles: default
+2020-12-09 09:14:10.544 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-12-09 09:14:10.554 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-12-09 09:14:10.555 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-09 09:14:10.555 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-12-09 09:14:10.714 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-09 09:14:10.715 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1850 ms
+2020-12-09 09:14:13.307 [INFO ] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-09 09:14:13.377 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-09 09:14:13.521 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-12-09 09:14:13.543 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-12-09 09:14:13.545 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-09 09:14:13.561 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-09 09:14:13.605 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-09 09:14:13.772 [INFO ] com.source.boot - Started boot in 5.667 seconds (JVM running for 7.591)
+2020-12-09 09:14:34.443 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-09 09:14:45.867 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-12-09 09:14:45.981 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-12-09 09:45:25.945 [INFO ] com.source.boot - Starting boot on DESKTOP-5EB3B7K with PID 18844 (E:\source\cloud-manage\manage-web\target\classes started by MI in E:\source\cloud-manage)
+2020-12-09 09:45:25.950 [INFO ] com.source.boot - No active profile set, falling back to default profiles: default
+2020-12-09 09:45:27.462 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-12-09 09:45:27.472 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-12-09 09:45:27.473 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-09 09:45:27.474 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-12-09 09:45:27.621 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-09 09:45:27.622 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1616 ms
+2020-12-09 09:45:29.914 [INFO ] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-09 09:45:29.985 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-09 09:45:30.120 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-12-09 09:45:30.142 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-12-09 09:45:30.143 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-09 09:45:30.155 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-09 09:45:30.185 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-09 09:45:30.300 [INFO ] com.source.boot - Started boot in 4.862 seconds (JVM running for 6.573)
+2020-12-09 09:45:36.699 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-09 09:45:36.779 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-12-09 09:45:36.931 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-12-09 11:49:49.162 [INFO ] com.source.boot - Starting boot on DESKTOP-5EB3B7K with PID 28344 (E:\source\cloud-manage\manage-web\target\classes started by MI in E:\source\cloud-manage)
+2020-12-09 11:49:49.166 [INFO ] com.source.boot - No active profile set, falling back to default profiles: default
+2020-12-09 11:49:50.660 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-12-09 11:49:50.668 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-12-09 11:49:50.669 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-09 11:49:50.669 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-12-09 11:49:50.804 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-09 11:49:50.805 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1583 ms
+2020-12-09 11:49:51.491 [INFO ] org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-12-09 11:49:51.501 [INFO ] org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-12-09 11:50:46.084 [INFO ] com.source.boot - Starting boot on DESKTOP-5EB3B7K with PID 27820 (E:\source\cloud-manage\manage-web\target\classes started by MI in E:\source\cloud-manage)
+2020-12-09 11:50:46.088 [INFO ] com.source.boot - No active profile set, falling back to default profiles: default
+2020-12-09 11:50:47.560 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-12-09 11:50:47.568 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-12-09 11:50:47.569 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-09 11:50:47.569 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-12-09 11:50:47.707 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-09 11:50:47.707 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1568 ms
+2020-12-09 11:50:49.986 [INFO ] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-09 11:50:50.054 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-09 11:50:50.185 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-12-09 11:50:50.204 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-12-09 11:50:50.205 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-09 11:50:50.218 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-09 11:50:50.247 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-09 11:50:50.361 [INFO ] com.source.boot - Started boot in 4.786 seconds (JVM running for 6.464)
+2020-12-09 11:50:56.760 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-09 11:51:16.874 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-12-09 11:51:17.007 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-12-09 16:43:35.602 [INFO ] com.source.boot - Starting boot on DESKTOP-5EB3B7K with PID 6892 (E:\source\cloud-manage\manage-web\target\classes started by MI in E:\source\cloud-manage)
+2020-12-09 16:43:35.607 [INFO ] com.source.boot - No active profile set, falling back to default profiles: default
+2020-12-09 16:43:37.459 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-12-09 16:43:37.468 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-12-09 16:43:37.469 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-09 16:43:37.469 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-12-09 16:43:37.651 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-09 16:43:37.651 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1988 ms
+2020-12-09 16:43:40.315 [INFO ] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-09 16:43:40.394 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-09 16:43:40.542 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-12-09 16:43:40.564 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-12-09 16:43:40.565 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-09 16:43:40.582 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-09 16:43:40.623 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-09 16:43:40.771 [INFO ] com.source.boot - Started boot in 5.948 seconds (JVM running for 8.08)
+2020-12-09 16:44:23.851 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-09 16:44:23.894 [INFO ] com.source.system.controller.TbUserController - null
+2020-12-09 16:44:24.066 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-12-09 16:44:24.234 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-12-09 16:45:59.869 [INFO ] com.source.system.controller.TbUserController - null
+2020-12-09 16:46:28.570 [INFO ] com.source.system.controller.TbUserController - null
+2020-12-09 16:47:50.101 [INFO ] com.source.boot - Starting boot on DESKTOP-5EB3B7K with PID 5192 (E:\source\cloud-manage\manage-web\target\classes started by MI in E:\source\cloud-manage)
+2020-12-09 16:47:50.105 [INFO ] com.source.boot - No active profile set, falling back to default profiles: default
+2020-12-09 16:47:51.739 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-12-09 16:47:51.749 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-12-09 16:47:51.750 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-09 16:47:51.751 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-12-09 16:47:51.901 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-09 16:47:51.901 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1736 ms
+2020-12-09 16:47:54.331 [INFO ] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-09 16:47:54.409 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-09 16:47:54.571 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-12-09 16:47:54.595 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-12-09 16:47:54.597 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-09 16:47:54.611 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-09 16:47:54.644 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-09 16:47:54.791 [INFO ] com.source.boot - Started boot in 5.254 seconds (JVM running for 7.091)
+2020-12-09 16:50:46.755 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-09 16:50:46.796 [INFO ] com.source.system.controller.TbUserController - sex1
+2020-12-09 16:50:46.859 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-12-09 16:50:47.026 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-12-09 16:50:59.627 [INFO ] com.source.system.controller.TbUserController - sex0
+2020-12-09 16:51:07.621 [INFO ] com.source.system.controller.TbUserController - sexnull
+2020-12-09 16:51:57.558 [INFO ] com.source.system.controller.TbUserController - sexnull
+2020-12-09 16:52:05.026 [INFO ] com.source.system.controller.TbUserController - sexnull
+2020-12-09 16:52:29.697 [INFO ] com.source.system.controller.TbUserController - sexnull
+2020-12-09 16:53:06.604 [INFO ] com.source.system.controller.TbUserController - sexnull
+2020-12-09 16:53:11.160 [INFO ] com.source.system.controller.TbUserController - sexnull
+2020-12-09 16:54:36.961 [INFO ] com.source.system.controller.TbUserController - sexnull
+2020-12-09 16:54:49.832 [INFO ] com.source.system.controller.TbUserController - sexnull
+2020-12-09 16:55:10.845 [INFO ] com.source.system.controller.TbUserController - sexnull
+2020-12-09 16:55:13.936 [INFO ] com.source.system.controller.TbUserController - sexnull
+2020-12-09 16:55:28.866 [INFO ] com.source.system.controller.TbUserController - sexnull
+2020-12-09 16:55:41.506 [INFO ] com.source.system.controller.TbUserController - sexnull
+2020-12-09 16:55:44.688 [INFO ] com.source.system.controller.TbUserController - sexnull
+2020-12-09 16:55:56.030 [INFO ] com.source.system.controller.TbUserController - sexnull
+2020-12-09 16:55:58.800 [INFO ] com.source.system.controller.TbUserController - sexnull
+2020-12-09 16:56:34.844 [INFO ] com.source.system.controller.TbUserController - sexnull
+2020-12-09 16:56:46.140 [INFO ] com.source.system.controller.TbUserController - sexnull
+2020-12-09 16:57:08.752 [INFO ] com.source.system.controller.TbUserController - sexnull
+2020-12-09 16:57:15.928 [INFO ] com.source.system.controller.TbUserController - sexnull
+2020-12-09 16:57:27.437 [INFO ] com.source.system.controller.TbUserController - sexnull
+2020-12-09 16:57:40.747 [INFO ] com.source.system.controller.TbUserController - sexnull
+2020-12-09 16:57:45.749 [INFO ] com.source.system.controller.TbUserController - sexnull
+2020-12-09 17:01:59.628 [INFO ] com.source.system.controller.TbUserController - sexnull
+2020-12-09 17:02:33.661 [INFO ] com.source.system.controller.TbUserController - sexnull
+2020-12-09 17:02:38.328 [INFO ] com.source.system.controller.TbUserController - sexnull
+2020-12-09 17:04:04.603 [INFO ] com.source.boot - Starting boot on DESKTOP-5EB3B7K with PID 15584 (E:\source\cloud-manage\manage-web\target\classes started by MI in E:\source\cloud-manage)
+2020-12-09 17:04:04.607 [INFO ] com.source.boot - No active profile set, falling back to default profiles: default
+2020-12-09 17:04:06.325 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-12-09 17:04:06.333 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-12-09 17:04:06.334 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-09 17:04:06.335 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-12-09 17:04:06.501 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-09 17:04:06.502 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1832 ms
+2020-12-09 17:04:09.108 [INFO ] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-09 17:04:09.184 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-09 17:04:09.349 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-12-09 17:04:09.377 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-12-09 17:04:09.378 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-09 17:04:09.395 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-09 17:04:09.431 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-09 17:04:09.569 [INFO ] com.source.boot - Started boot in 5.516 seconds (JVM running for 7.372)
+2020-12-09 17:04:15.381 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-09 17:04:15.434 [INFO ] com.source.system.controller.TbUserController - sexnull
+2020-12-09 17:04:15.494 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-12-09 17:04:15.614 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-12-09 17:04:28.071 [INFO ] com.source.system.controller.TbUserController - sexnull
+2020-12-09 17:04:29.527 [INFO ] com.source.system.controller.TbUserController - sexnull
+2020-12-09 17:04:30.161 [INFO ] com.source.system.controller.TbUserController - sexnull
+2020-12-09 17:04:32.397 [INFO ] com.source.system.controller.TbUserController - sexnull
+2020-12-09 17:04:49.341 [INFO ] com.source.system.controller.TbUserController - sexnull
+2020-12-09 17:04:50.256 [INFO ] com.source.system.controller.TbUserController - sexnull
+2020-12-09 17:06:11.504 [INFO ] com.source.system.controller.TbUserController - sexnull
+2020-12-09 17:06:17.177 [INFO ] com.source.system.controller.TbUserController - sexnull
+2020-12-09 17:06:26.304 [INFO ] com.source.system.controller.TbUserController - sex1
+2020-12-09 17:06:33.971 [INFO ] com.source.system.controller.TbUserController - sex0
+2020-12-09 17:06:52.017 [INFO ] com.source.system.controller.TbUserController - sex0
+2020-12-09 17:06:58.192 [INFO ] com.source.system.controller.TbUserController - sex1
+2020-12-09 17:06:59.178 [INFO ] com.source.system.controller.TbUserController - sex1
+2020-12-09 17:07:02.851 [INFO ] com.source.system.controller.TbUserController - sex1
+2020-12-09 17:08:07.017 [INFO ] com.source.system.controller.TbUserController - sex0
+2020-12-09 17:08:09.789 [INFO ] com.source.system.controller.TbUserController - sex1
+2020-12-09 17:08:15.517 [INFO ] com.source.system.controller.TbUserController - sexnull
+2020-12-09 17:08:34.641 [INFO ] com.source.system.controller.TbUserController - sex1
+2020-12-09 17:08:54.709 [INFO ] com.source.system.controller.TbUserController - sex0
+2020-12-09 17:09:14.690 [INFO ] com.source.system.controller.TbUserController - sex0
+2020-12-09 17:09:22.742 [INFO ] com.source.system.controller.TbUserController - sex0
+2020-12-09 17:09:47.439 [INFO ] com.source.boot - Starting boot on DESKTOP-5EB3B7K with PID 22552 (E:\source\cloud-manage\manage-web\target\classes started by MI in E:\source\cloud-manage)
+2020-12-09 17:09:47.444 [INFO ] com.source.boot - No active profile set, falling back to default profiles: default
+2020-12-09 17:09:49.057 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-12-09 17:09:49.066 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-12-09 17:09:49.067 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-09 17:09:49.067 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-12-09 17:09:49.217 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-09 17:09:49.218 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1711 ms
+2020-12-09 17:09:51.659 [INFO ] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-09 17:09:51.738 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-09 17:09:51.885 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-12-09 17:09:51.909 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-12-09 17:09:51.910 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-09 17:09:51.923 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-09 17:09:51.954 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-09 17:09:52.083 [INFO ] com.source.boot - Started boot in 5.167 seconds (JVM running for 6.952)
+2020-12-09 17:10:11.249 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-09 17:10:11.321 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-12-09 17:10:11.447 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-12-09 17:55:00.296 [INFO ] com.source.boot - Starting boot on DESKTOP-5EB3B7K with PID 20464 (E:\source\cloud-manage\manage-web\target\classes started by MI in E:\source\cloud-manage)
+2020-12-09 17:55:00.300 [INFO ] com.source.boot - No active profile set, falling back to default profiles: default
+2020-12-09 17:55:01.824 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-12-09 17:55:01.832 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-12-09 17:55:01.833 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-09 17:55:01.833 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-12-09 17:55:01.967 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-09 17:55:01.967 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1612 ms
+2020-12-09 17:55:04.256 [INFO ] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-09 17:55:04.325 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-09 17:55:04.463 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-12-09 17:55:04.485 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-12-09 17:55:04.486 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-09 17:55:04.498 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-09 17:55:04.528 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-09 17:55:04.645 [INFO ] com.source.boot - Started boot in 4.872 seconds (JVM running for 6.611)
+2020-12-09 17:55:10.775 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-09 17:57:02.334 [INFO ] com.source.boot - Starting boot on DESKTOP-5EB3B7K with PID 18348 (E:\source\cloud-manage\manage-web\target\classes started by MI in E:\source\cloud-manage)
+2020-12-09 17:57:02.338 [INFO ] com.source.boot - No active profile set, falling back to default profiles: default
+2020-12-09 17:57:03.847 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-12-09 17:57:03.855 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-12-09 17:57:03.855 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-09 17:57:03.856 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-12-09 17:57:03.990 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-09 17:57:03.991 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1598 ms
+2020-12-09 17:57:06.297 [INFO ] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-09 17:57:06.366 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-09 17:57:06.499 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-12-09 17:57:06.521 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-12-09 17:57:06.522 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-09 17:57:06.534 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-09 17:57:06.569 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-09 17:57:06.704 [INFO ] com.source.boot - Started boot in 4.887 seconds (JVM running for 6.58)
+2020-12-09 17:57:19.118 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-09 17:57:19.186 [INFO ] com.source.system.controller.TbUserController - startDateendDate
+2020-12-09 17:57:19.257 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-12-09 17:57:19.431 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-12-09 17:57:29.042 [INFO ] com.source.system.controller.TbUserController - startDate2020-12-09T04:00:00.000ZendDate2020-12-11T00:00:00.000Z
+2020-12-09 17:57:40.947 [INFO ] com.source.system.controller.TbUserController - startDate2020-12-09T04:00:00.000ZendDate2020-12-11T00:00:00.000Z
+2020-12-09 18:09:39.538 [INFO ] com.source.boot - Starting boot on DESKTOP-5EB3B7K with PID 28776 (E:\source\cloud-manage\manage-web\target\classes started by MI in E:\source\cloud-manage)
+2020-12-09 18:09:39.543 [INFO ] com.source.boot - No active profile set, falling back to default profiles: default
+2020-12-09 18:09:41.041 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-12-09 18:09:41.050 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-12-09 18:09:41.050 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-09 18:09:41.051 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-12-09 18:09:41.190 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-09 18:09:41.190 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1595 ms
+2020-12-09 18:09:43.504 [INFO ] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-09 18:09:43.574 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-09 18:09:43.711 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-12-09 18:09:43.731 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-12-09 18:09:43.732 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-09 18:09:43.745 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-09 18:09:43.774 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-09 18:09:43.895 [INFO ] com.source.boot - Started boot in 4.887 seconds (JVM running for 6.595)
+2020-12-09 18:10:16.260 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-09 18:10:16.325 [INFO ] com.source.system.controller.TbUserController - startDateendDate
+2020-12-09 18:10:16.386 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-12-09 18:10:16.551 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-12-09 18:10:23.734 [INFO ] com.source.system.controller.TbUserController - startDatenullendDatenull
+2020-12-09 18:10:24.972 [INFO ] com.source.system.controller.TbUserController - startDatenullendDatenull
+2020-12-09 18:10:26.886 [INFO ] com.source.system.controller.TbUserController - startDatenullendDatenull
+2020-12-09 18:10:28.592 [INFO ] com.source.system.controller.TbUserController - startDatenullendDatenull
+2020-12-09 18:10:33.833 [INFO ] com.source.system.controller.TbUserController - startDate2020-12-01T04:00:00.000ZendDate2020-12-19T00:00:00.000Z
+2020-12-09 18:14:35.967 [INFO ] com.source.boot - Starting boot on DESKTOP-5EB3B7K with PID 24888 (E:\source\cloud-manage\manage-web\target\classes started by MI in E:\source\cloud-manage)
+2020-12-09 18:14:35.971 [INFO ] com.source.boot - No active profile set, falling back to default profiles: default
+2020-12-09 18:14:37.492 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-12-09 18:14:37.501 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-12-09 18:14:37.501 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-09 18:14:37.502 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-12-09 18:14:37.639 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-09 18:14:37.640 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1611 ms
+2020-12-09 18:14:39.949 [INFO ] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-09 18:14:40.017 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-09 18:14:40.151 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-12-09 18:14:40.173 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-12-09 18:14:40.174 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-09 18:14:40.187 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-09 18:14:40.215 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-09 18:14:40.340 [INFO ] com.source.boot - Started boot in 4.89 seconds (JVM running for 6.578)
+2020-12-09 18:15:30.031 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-09 18:19:30.378 [INFO ] com.source.boot - Starting boot on DESKTOP-5EB3B7K with PID 26272 (E:\source\cloud-manage\manage-web\target\classes started by MI in E:\source\cloud-manage)
+2020-12-09 18:19:30.383 [INFO ] com.source.boot - No active profile set, falling back to default profiles: default
+2020-12-09 18:19:31.875 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-12-09 18:19:31.883 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-12-09 18:19:31.884 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-09 18:19:31.884 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-12-09 18:19:32.022 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-09 18:19:32.022 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1584 ms
+2020-12-09 18:19:34.802 [INFO ] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-09 18:19:34.872 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-09 18:19:35.008 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-12-09 18:19:35.031 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-12-09 18:19:35.032 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-09 18:19:35.044 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-09 18:19:35.073 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-09 18:19:35.217 [INFO ] com.source.boot - Started boot in 5.362 seconds (JVM running for 7.074)
+2020-12-09 18:19:41.725 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-09 18:19:41.856 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-12-09 18:19:42.004 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.

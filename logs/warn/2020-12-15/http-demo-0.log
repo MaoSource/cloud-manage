@@ -1,0 +1,2 @@
+2020-12-15 13:39:28.143 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=53m9s226ms943µs700ns).
+2020-12-15 14:11:53.936 [http-nio-8081-exec-5] WARN  o.s.security.crypto.bcrypt.BCryptPasswordEncoder - Encoded password does not look like BCrypt

@@ -1,0 +1,30 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: manage-web
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/xinguan?serverTimezone = UTC
+    username: root
+    password: root
+
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: GMT+8
+
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.slf4j.Slf4jImpl
+  global-config:
+    db-config:
+      logic-delete-field: deleted
+      logic-delete-value: 1 # 逻辑已删除为 1
+      logic-not-delete-value: 0 #逻辑为删除为 0
+  mapper-locations: classpath*:/mapper/*.xml
+
+alioss:
+  endpoint: https://oss-cn-shenzhen.aliyuncs.com
+  accessKeyId: LTAI4Fz4jX8FB2s7uUZYbWeP
+  accessKeySecret: 8jBNz3wxhrSaNyof3V710Mlo9Oyh4K
+  bucketName: managers

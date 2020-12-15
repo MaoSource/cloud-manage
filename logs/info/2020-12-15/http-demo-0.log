@@ -1,0 +1,678 @@
+2020-12-15 09:12:47.462 [INFO ] com.source.boot - Starting boot on DESKTOP-5EB3B7K with PID 4392 (E:\source\cloud-manage\manage-web\target\classes started by MI in E:\source\cloud-manage)
+2020-12-15 09:12:47.482 [INFO ] com.source.boot - No active profile set, falling back to default profiles: default
+2020-12-15 09:12:49.266 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-12-15 09:12:49.275 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-12-15 09:12:49.276 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-15 09:12:49.276 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-12-15 09:12:49.437 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-15 09:12:49.438 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1871 ms
+2020-12-15 09:12:51.972 [INFO ] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-15 09:12:52.041 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-15 09:12:52.247 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-12-15 09:12:52.272 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-12-15 09:12:52.273 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-15 09:12:52.292 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-15 09:12:52.339 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-15 09:12:52.534 [INFO ] com.source.boot - Started boot in 6.028 seconds (JVM running for 8.197)
+2020-12-15 09:12:58.130 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-15 09:12:58.266 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-12-15 09:12:58.503 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-12-15 09:13:18.530 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@15f1abaf
+2020-12-15 09:13:18.530 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@15f1abaf
+2020-12-15 09:13:20.329 [INFO ] com.source.utils.Files - file:png
+2020-12-15 09:13:20.347 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 09:34:50.591 [INFO ] com.source.boot - Starting boot on DESKTOP-5EB3B7K with PID 9940 (E:\source\cloud-manage\manage-web\target\classes started by MI in E:\source\cloud-manage)
+2020-12-15 09:34:50.596 [INFO ] com.source.boot - No active profile set, falling back to default profiles: default
+2020-12-15 09:34:52.031 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-12-15 09:34:52.038 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-12-15 09:34:52.039 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-15 09:34:52.039 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-12-15 09:34:52.195 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-15 09:34:52.195 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1534 ms
+2020-12-15 09:34:54.407 [INFO ] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-15 09:34:54.482 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-15 09:34:54.652 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-12-15 09:34:54.675 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-12-15 09:34:54.676 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-15 09:34:54.689 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-15 09:34:54.719 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-15 09:34:54.880 [INFO ] com.source.boot - Started boot in 4.872 seconds (JVM running for 6.832)
+2020-12-15 09:40:40.922 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-15 09:40:41.027 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-12-15 09:40:41.197 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-12-15 09:42:10.129 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@4c715429
+2020-12-15 09:42:10.130 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@4c715429
+2020-12-15 09:42:11.633 [INFO ] com.source.utils.Files - file:png
+2020-12-15 09:42:11.638 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 09:49:41.465 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@66d5b0b2
+2020-12-15 09:49:41.465 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@66d5b0b2
+2020-12-15 09:49:43.949 [INFO ] com.source.utils.Files - file:png
+2020-12-15 09:49:43.950 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 09:50:29.698 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@715569c1
+2020-12-15 09:50:29.698 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@715569c1
+2020-12-15 09:50:29.769 [INFO ] com.source.utils.Files - file:png
+2020-12-15 09:50:29.770 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 09:51:48.929 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@45ee3360
+2020-12-15 09:51:48.930 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@45ee3360
+2020-12-15 09:51:48.997 [INFO ] com.source.utils.Files - file:png
+2020-12-15 09:51:48.998 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 09:51:58.968 [INFO ] com.source.system.controller.UploadFileController - 删除文件出错！
+2020-12-15 09:52:54.674 [INFO ] com.source.boot - Starting boot on DESKTOP-5EB3B7K with PID 2188 (E:\source\cloud-manage\manage-web\target\classes started by MI in E:\source\cloud-manage)
+2020-12-15 09:52:54.679 [INFO ] com.source.boot - No active profile set, falling back to default profiles: default
+2020-12-15 09:52:56.117 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-12-15 09:52:56.128 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-12-15 09:52:56.129 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-15 09:52:56.129 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-12-15 09:52:56.301 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-15 09:52:56.301 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1543 ms
+2020-12-15 09:52:58.740 [INFO ] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-15 09:52:58.823 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-15 09:52:59.023 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-12-15 09:52:59.050 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-12-15 09:52:59.051 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-15 09:52:59.066 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-15 09:52:59.105 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-15 09:52:59.290 [INFO ] com.source.boot - Started boot in 5.662 seconds (JVM running for 8.235)
+2020-12-15 09:53:10.666 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-15 09:53:10.810 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-12-15 09:53:11.002 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-12-15 09:53:16.963 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@79c05b67
+2020-12-15 09:53:16.964 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@79c05b67
+2020-12-15 09:53:18.623 [INFO ] com.source.utils.Files - file:png
+2020-12-15 09:53:18.628 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 09:53:19.427 [INFO ] com.source.system.controller.UploadFileController - 删除文件出错！
+2020-12-15 09:53:41.112 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@3177645f
+2020-12-15 09:53:41.112 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@3177645f
+2020-12-15 09:53:41.177 [INFO ] com.source.utils.Files - file:png
+2020-12-15 09:53:41.178 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 09:53:53.240 [INFO ] com.source.system.controller.UploadFileController - 删除文件出错！
+2020-12-15 09:55:42.041 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@16236e17
+2020-12-15 09:55:42.041 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@16236e17
+2020-12-15 09:55:42.085 [INFO ] com.source.utils.Files - file:png
+2020-12-15 09:55:42.085 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 09:56:02.878 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-15 09:56:02.880 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-12-15 09:56:02.886 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-12-15 09:56:07.824 [INFO ] com.source.boot - Starting boot on DESKTOP-5EB3B7K with PID 8060 (E:\source\cloud-manage\manage-web\target\classes started by MI in E:\source\cloud-manage)
+2020-12-15 09:56:07.828 [INFO ] com.source.boot - No active profile set, falling back to default profiles: default
+2020-12-15 09:56:09.184 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-12-15 09:56:09.191 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-12-15 09:56:09.192 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-15 09:56:09.192 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-12-15 09:56:09.348 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-15 09:56:09.348 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1459 ms
+2020-12-15 09:56:11.742 [INFO ] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-15 09:56:11.823 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-15 09:56:11.993 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-12-15 09:56:12.012 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-12-15 09:56:12.013 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-15 09:56:12.026 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-15 09:56:12.055 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-15 09:56:12.200 [INFO ] com.source.boot - Started boot in 4.983 seconds (JVM running for 7.268)
+2020-12-15 09:56:45.132 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-15 09:56:45.198 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@187670e
+2020-12-15 09:56:45.199 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@187670e
+2020-12-15 09:56:46.572 [INFO ] com.source.utils.Files - file:png
+2020-12-15 09:56:46.575 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 09:58:00.519 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-12-15 09:58:00.651 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-12-15 09:58:08.811 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@3fe8ac
+2020-12-15 09:58:08.811 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@3fe8ac
+2020-12-15 09:58:08.925 [INFO ] com.source.utils.Files - file:png
+2020-12-15 09:58:08.925 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 09:59:23.377 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@7e812a05
+2020-12-15 09:59:23.377 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@7e812a05
+2020-12-15 09:59:23.451 [INFO ] com.source.utils.Files - file:png
+2020-12-15 09:59:23.451 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 10:00:24.039 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@7ca45060
+2020-12-15 10:00:24.039 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@7ca45060
+2020-12-15 10:00:24.101 [INFO ] com.source.utils.Files - file:png
+2020-12-15 10:00:24.101 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 10:00:26.092 [INFO ] com.source.system.controller.UploadFileController - 删除文件出错！
+2020-12-15 10:02:00.406 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@678a69c8
+2020-12-15 10:02:00.406 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@678a69c8
+2020-12-15 10:02:00.454 [INFO ] com.source.utils.Files - file:png
+2020-12-15 10:02:00.455 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 10:02:03.162 [INFO ] com.source.system.controller.UploadFileController - 文件名：2020/12/15/image-8cfff150b5184ccab523cdae7bb4d03c.png
+2020-12-15 10:08:08.216 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@2293c63e
+2020-12-15 10:08:08.216 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@2293c63e
+2020-12-15 10:08:08.308 [INFO ] com.source.utils.Files - file:png
+2020-12-15 10:08:08.308 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 10:08:18.178 [INFO ] com.source.system.controller.UploadFileController - 文件名：2020/12/15/image-8bccffc3d9114efab7f56f24010e8378.png
+2020-12-15 10:10:29.384 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@2f8a5ca3
+2020-12-15 10:10:29.384 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@2f8a5ca3
+2020-12-15 10:10:29.439 [INFO ] com.source.utils.Files - file:png
+2020-12-15 10:10:29.439 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 10:10:38.618 [INFO ] com.source.system.controller.UploadFileController - 文件名：2020/12/15/image-ba8bf0e6a3884770b5c63dc06f628a84.png
+2020-12-15 10:11:04.752 [INFO ] com.source.system.controller.UploadFileController - 文件名：2020/12/15/image-ba8bf0e6a3884770b5c63dc06f628a84.png
+2020-12-15 10:13:03.931 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@49752e63
+2020-12-15 10:13:03.931 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@49752e63
+2020-12-15 10:13:03.991 [INFO ] com.source.utils.Files - file:png
+2020-12-15 10:13:03.991 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 10:13:08.133 [INFO ] com.source.system.controller.UploadFileController - 文件名：2020/12/15/image-894b2e5b2c14460aa0038e1278c6bfe6.png
+2020-12-15 10:13:16.639 [INFO ] com.source.system.controller.UploadFileController - 文件名：2020/12/15/image-894b2e5b2c14460aa0038e1278c6bfe6.png
+2020-12-15 10:19:29.626 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@5b0c88ea
+2020-12-15 10:19:29.626 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@5b0c88ea
+2020-12-15 10:19:29.744 [INFO ] com.source.utils.Files - file:png
+2020-12-15 10:19:29.744 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 10:19:32.342 [INFO ] com.source.system.controller.UploadFileController - 文件名：2020/12/15/image-994a8fbba39c443e91b422e4dafea434.png
+2020-12-15 14:09:53.273 [INFO ] com.source.boot - Starting boot on DESKTOP-5EB3B7K with PID 6604 (E:\source\cloud-manage\manage-web\target\classes started by MI in E:\source\cloud-manage)
+2020-12-15 14:09:53.276 [INFO ] com.source.boot - No active profile set, falling back to default profiles: default
+2020-12-15 14:09:55.176 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-12-15 14:09:55.186 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-12-15 14:09:55.186 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-15 14:09:55.187 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-12-15 14:09:55.361 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-15 14:09:55.361 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2034 ms
+2020-12-15 14:09:57.995 [INFO ] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-15 14:09:58.068 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-15 14:09:58.297 [INFO ] org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: a68a55d6-eed2-403d-a39b-a3b6f454129c
+
+2020-12-15 14:09:58.400 [INFO ] org.springframework.security.web.DefaultSecurityFilterChain - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@706ceca6, org.springframework.security.web.context.SecurityContextPersistenceFilter@3635099, org.springframework.security.web.header.HeaderWriterFilter@4bc59b27, org.springframework.security.web.csrf.CsrfFilter@4cc65c2, org.springframework.security.web.authentication.logout.LogoutFilter@500051c5, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@6436e181, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@76d7881e, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@7f6329cb, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@73afe2b7, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@1095d23a, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@6b1b19cf, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4b8137c5, org.springframework.security.web.session.SessionManagementFilter@76ff68c5, org.springframework.security.web.access.ExceptionTranslationFilter@8a6631b, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@52559a69]
+2020-12-15 14:09:58.432 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-12-15 14:09:58.455 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-12-15 14:09:58.456 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-15 14:09:58.471 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-15 14:09:58.506 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-15 14:09:58.691 [INFO ] com.source.boot - Started boot in 6.181 seconds (JVM running for 8.26)
+2020-12-15 14:11:33.381 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-15 14:17:35.433 [INFO ] com.source.boot - Starting boot on DESKTOP-5EB3B7K with PID 10184 (E:\source\cloud-manage\manage-web\target\classes started by MI in E:\source\cloud-manage)
+2020-12-15 14:17:35.438 [INFO ] com.source.boot - No active profile set, falling back to default profiles: default
+2020-12-15 14:17:37.146 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-12-15 14:17:37.154 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-12-15 14:17:37.154 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-15 14:17:37.155 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-12-15 14:17:37.321 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-15 14:17:37.321 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1799 ms
+2020-12-15 14:17:39.772 [INFO ] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-15 14:17:39.843 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-15 14:17:40.022 [INFO ] org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 66ecf6c0-cf7a-4052-b701-b008ad4f8a8e
+
+2020-12-15 14:17:40.085 [INFO ] org.springframework.security.web.DefaultSecurityFilterChain - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1c57f6b2, org.springframework.security.web.context.SecurityContextPersistenceFilter@1a01d7f0, org.springframework.security.web.header.HeaderWriterFilter@25c2a9e3, org.springframework.security.web.authentication.logout.LogoutFilter@2001e48c, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@7e15f4d4, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@43ecfeb5, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4b515eab, org.springframework.security.web.session.SessionManagementFilter@52ae997b, org.springframework.security.web.access.ExceptionTranslationFilter@5e26f1ed]
+2020-12-15 14:17:40.119 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-12-15 14:17:40.139 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-12-15 14:17:40.140 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-15 14:17:40.152 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-15 14:17:40.182 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-15 14:17:40.344 [INFO ] com.source.boot - Started boot in 5.462 seconds (JVM running for 7.306)
+2020-12-15 14:17:46.914 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-15 14:22:31.628 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@6559ca90
+2020-12-15 14:22:31.628 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@6559ca90
+2020-12-15 14:22:33.613 [INFO ] com.source.utils.Files - file:gif
+2020-12-15 14:22:33.618 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 14:28:13.715 [INFO ] com.source.boot - Starting boot on DESKTOP-5EB3B7K with PID 20688 (E:\source\cloud-manage\manage-web\target\classes started by MI in E:\source\cloud-manage)
+2020-12-15 14:28:13.719 [INFO ] com.source.boot - No active profile set, falling back to default profiles: default
+2020-12-15 14:28:15.378 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-12-15 14:28:15.385 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-12-15 14:28:15.386 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-15 14:28:15.386 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-12-15 14:28:15.544 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-15 14:28:15.544 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1766 ms
+2020-12-15 14:28:17.952 [INFO ] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-15 14:28:18.022 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-15 14:28:18.210 [INFO ] org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: ee3321d0-1957-4df5-ae69-360e6da10154
+
+2020-12-15 14:28:18.272 [INFO ] org.springframework.security.web.DefaultSecurityFilterChain - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@5a1f778, org.springframework.security.web.context.SecurityContextPersistenceFilter@746c411c, org.springframework.security.web.header.HeaderWriterFilter@52ae997b, org.springframework.security.web.authentication.logout.LogoutFilter@36776c32, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@51efb731, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@377874b4, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4cc65c2, org.springframework.security.web.session.SessionManagementFilter@32d418a9, org.springframework.security.web.access.ExceptionTranslationFilter@6b9fdbc6]
+2020-12-15 14:28:18.307 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-12-15 14:28:18.328 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-12-15 14:28:18.328 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-15 14:28:18.341 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-15 14:28:18.371 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-15 14:28:18.533 [INFO ] com.source.boot - Started boot in 5.349 seconds (JVM running for 7.192)
+2020-12-15 14:28:24.654 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-15 14:29:47.189 [INFO ] com.source.boot - Starting boot on DESKTOP-5EB3B7K with PID 19388 (E:\source\cloud-manage\manage-web\target\classes started by MI in E:\source\cloud-manage)
+2020-12-15 14:29:47.194 [INFO ] com.source.boot - No active profile set, falling back to default profiles: default
+2020-12-15 14:29:48.727 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-12-15 14:29:48.734 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-12-15 14:29:48.735 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-15 14:29:48.736 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-12-15 14:29:48.891 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-15 14:29:48.892 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1632 ms
+2020-12-15 14:29:51.191 [INFO ] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-15 14:29:51.278 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-15 14:29:51.491 [INFO ] org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 5099b197-4e12-4305-baee-093f408879ec
+
+2020-12-15 14:29:51.565 [INFO ] org.springframework.security.web.DefaultSecurityFilterChain - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@5cd96b41, org.springframework.security.web.context.SecurityContextPersistenceFilter@71aaf151, org.springframework.security.web.header.HeaderWriterFilter@32f32623, org.springframework.security.web.authentication.logout.LogoutFilter@1c57f6b2, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@32d418a9, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@3e377967, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@7e1ffe70, org.springframework.security.web.session.SessionManagementFilter@4eaf7902, org.springframework.security.web.access.ExceptionTranslationFilter@5a515e5d]
+2020-12-15 14:29:51.605 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-12-15 14:29:51.630 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-12-15 14:29:51.631 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-15 14:29:51.645 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-15 14:29:51.679 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-15 14:29:51.870 [INFO ] com.source.boot - Started boot in 5.305 seconds (JVM running for 7.223)
+2020-12-15 14:30:01.967 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-15 14:30:02.142 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-12-15 14:30:02.401 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-12-15 15:12:01.134 [INFO ] com.source.boot - Starting boot on DESKTOP-5EB3B7K with PID 7876 (E:\source\cloud-manage\manage-web\target\classes started by MI in E:\source\cloud-manage)
+2020-12-15 15:12:01.139 [INFO ] com.source.boot - No active profile set, falling back to default profiles: default
+2020-12-15 15:12:02.949 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-12-15 15:12:02.956 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-12-15 15:12:02.957 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-15 15:12:02.958 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-12-15 15:12:03.127 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-15 15:12:03.127 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1918 ms
+2020-12-15 15:12:05.506 [INFO ] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-15 15:12:05.580 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-15 15:12:05.773 [INFO ] org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 96d7043c-6915-4fa2-80ae-2e4c5ec59809
+
+2020-12-15 15:12:05.842 [INFO ] org.springframework.security.web.DefaultSecurityFilterChain - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@6d672bd4, org.springframework.security.web.context.SecurityContextPersistenceFilter@53940e2f, org.springframework.security.web.header.HeaderWriterFilter@5856dbe4, org.springframework.security.web.authentication.logout.LogoutFilter@7e1ffe70, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@61db86bf, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2a02e34b, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@67770b37, org.springframework.security.web.session.SessionManagementFilter@43ecfeb5, org.springframework.security.web.access.ExceptionTranslationFilter@f557c37]
+2020-12-15 15:12:05.883 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-12-15 15:12:05.908 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-12-15 15:12:05.910 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-15 15:12:05.924 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-15 15:12:05.959 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-15 15:12:06.151 [INFO ] com.source.boot - Started boot in 5.645 seconds (JVM running for 7.682)
+2020-12-15 15:12:41.444 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-15 15:12:41.669 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-12-15 15:12:41.781 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-12-15 15:12:41.950 [INFO ] com.source.handler.MyMetaObjectHandler - start insert fill ....
+2020-12-15 15:38:49.760 [INFO ] com.source.boot - Starting boot on DESKTOP-5EB3B7K with PID 15872 (E:\source\cloud-manage\manage-web\target\classes started by MI in E:\source\cloud-manage)
+2020-12-15 15:38:49.764 [INFO ] com.source.boot - No active profile set, falling back to default profiles: default
+2020-12-15 15:38:51.442 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-12-15 15:38:51.449 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-12-15 15:38:51.449 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-15 15:38:51.450 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-12-15 15:38:51.604 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-15 15:38:51.604 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1770 ms
+2020-12-15 15:38:53.954 [INFO ] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-15 15:38:54.022 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-15 15:38:54.198 [INFO ] org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 44422bdb-abde-4d87-a442-fbf71ddce3bc
+
+2020-12-15 15:38:54.260 [INFO ] org.springframework.security.web.DefaultSecurityFilterChain - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1235151c, org.springframework.security.web.context.SecurityContextPersistenceFilter@52ea0269, org.springframework.security.web.header.HeaderWriterFilter@79476a4e, org.springframework.security.web.authentication.logout.LogoutFilter@1536ea40, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@43ecfeb5, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@3281dfc2, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@5a1f778, org.springframework.security.web.session.SessionManagementFilter@7061622, org.springframework.security.web.access.ExceptionTranslationFilter@3becc950]
+2020-12-15 15:38:54.302 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-12-15 15:38:54.328 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-12-15 15:38:54.330 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-15 15:38:54.348 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-15 15:38:54.380 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-15 15:38:54.567 [INFO ] com.source.boot - Started boot in 5.553 seconds (JVM running for 7.565)
+2020-12-15 15:51:17.756 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-15 15:51:18.013 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-12-15 15:51:18.153 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-12-15 15:51:18.322 [INFO ] com.source.handler.MyMetaObjectHandler - start insert fill ....
+2020-12-15 15:55:23.293 [INFO ] com.source.boot - Starting boot on DESKTOP-5EB3B7K with PID 21908 (E:\source\cloud-manage\manage-web\target\classes started by MI in E:\source\cloud-manage)
+2020-12-15 15:55:23.298 [INFO ] com.source.boot - No active profile set, falling back to default profiles: default
+2020-12-15 15:55:24.954 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-12-15 15:55:24.963 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-12-15 15:55:24.964 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-15 15:55:24.964 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-12-15 15:55:25.121 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-15 15:55:25.121 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1757 ms
+2020-12-15 15:55:27.619 [INFO ] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-15 15:55:27.700 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-15 15:55:27.922 [INFO ] org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: f5f0361e-59bb-466a-8345-8e85081897a4
+
+2020-12-15 15:55:27.993 [INFO ] org.springframework.security.web.DefaultSecurityFilterChain - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@14447be, org.springframework.security.web.context.SecurityContextPersistenceFilter@3e377967, org.springframework.security.web.header.HeaderWriterFilter@20c812c8, org.springframework.security.web.authentication.logout.LogoutFilter@4cc65c2, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@707e4fe4, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@7af443a3, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@5eb5da12, org.springframework.security.web.session.SessionManagementFilter@61db86bf, org.springframework.security.web.access.ExceptionTranslationFilter@5a058be5]
+2020-12-15 15:55:28.028 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-12-15 15:55:28.052 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-12-15 15:55:28.053 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-15 15:55:28.066 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-15 15:55:28.095 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-15 15:55:28.265 [INFO ] com.source.boot - Started boot in 5.544 seconds (JVM running for 7.414)
+2020-12-15 15:55:49.472 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-15 15:55:49.705 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-12-15 15:55:49.825 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-12-15 15:55:49.989 [INFO ] com.source.handler.MyMetaObjectHandler - start insert fill ....
+2020-12-15 16:12:15.341 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@1c91ca29
+2020-12-15 16:12:15.341 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@1c91ca29
+2020-12-15 16:12:16.789 [INFO ] com.source.utils.Files - file:png
+2020-12-15 16:12:16.793 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 16:12:48.566 [INFO ] com.source.system.controller.UploadFileController - 文件名：2020/12/15/image-682303cb94904bc0b1805c9dbec74bb9.png
+2020-12-15 16:13:39.867 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@e81f71a
+2020-12-15 16:13:39.867 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@e81f71a
+2020-12-15 16:13:39.922 [INFO ] com.source.utils.Files - file:png
+2020-12-15 16:13:39.923 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 16:13:49.349 [INFO ] com.source.system.controller.UploadFileController - 文件名：2020/12/15/image-a744a00d2fdd47849e350bc6a25f4cbc.png
+2020-12-15 16:35:00.005 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@779bd791
+2020-12-15 16:35:00.005 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@779bd791
+2020-12-15 16:35:00.141 [INFO ] com.source.utils.Files - file:png
+2020-12-15 16:35:00.142 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 16:36:14.063 [INFO ] com.source.system.controller.UploadFileController - 文件名：2020/12/15/image-4dfc620e8cef40b2b4711ad9ce031624.png
+2020-12-15 16:40:43.297 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@2c71e629
+2020-12-15 16:40:43.297 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@2c71e629
+2020-12-15 16:40:43.374 [INFO ] com.source.utils.Files - file:png
+2020-12-15 16:40:43.375 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 16:50:07.374 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@511564a6
+2020-12-15 16:50:07.375 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@511564a6
+2020-12-15 16:50:07.498 [INFO ] com.source.utils.Files - file:png
+2020-12-15 16:50:07.499 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 16:50:12.014 [INFO ] com.source.system.controller.UploadFileController - 文件名：2020/12/15/image-bd49bda7ea264cd5b55c543238b5c970.png
+2020-12-15 16:51:15.205 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@48f4540e
+2020-12-15 16:51:15.206 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@48f4540e
+2020-12-15 16:51:15.289 [INFO ] com.source.utils.Files - file:png
+2020-12-15 16:51:15.289 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 17:02:08.581 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@1b96036
+2020-12-15 17:02:08.582 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@1b96036
+2020-12-15 17:02:08.659 [INFO ] com.source.utils.Files - file:png
+2020-12-15 17:02:08.659 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 17:03:04.936 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@284f9b6b
+2020-12-15 17:03:04.936 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@284f9b6b
+2020-12-15 17:03:04.993 [INFO ] com.source.utils.Files - file:png
+2020-12-15 17:03:04.994 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 17:03:57.947 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@438d298b
+2020-12-15 17:03:57.948 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@438d298b
+2020-12-15 17:03:57.990 [INFO ] com.source.utils.Files - file:png
+2020-12-15 17:03:57.990 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 17:04:28.983 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@f43fa0a
+2020-12-15 17:04:28.983 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@f43fa0a
+2020-12-15 17:04:29.026 [INFO ] com.source.utils.Files - file:png
+2020-12-15 17:04:29.026 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 17:05:19.957 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@36de7073
+2020-12-15 17:05:19.958 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@36de7073
+2020-12-15 17:05:20.054 [INFO ] com.source.utils.Files - file:png
+2020-12-15 17:05:20.055 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 17:06:25.013 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@55d96810
+2020-12-15 17:06:25.014 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@55d96810
+2020-12-15 17:06:25.095 [INFO ] com.source.utils.Files - file:jpg
+2020-12-15 17:06:25.095 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 17:07:15.639 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@69e5014b
+2020-12-15 17:07:15.639 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@69e5014b
+2020-12-15 17:07:15.683 [INFO ] com.source.utils.Files - file:jpg
+2020-12-15 17:07:15.683 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 17:08:15.436 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@825e111
+2020-12-15 17:08:15.437 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@825e111
+2020-12-15 17:08:15.485 [INFO ] com.source.utils.Files - file:png
+2020-12-15 17:08:15.485 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 17:08:20.580 [INFO ] com.source.system.controller.UploadFileController - 文件名：2020/12/15/image-e63d4042d7324a4dacbe6be46d1e9c9e.png
+2020-12-15 17:13:47.167 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@51d2dc9c
+2020-12-15 17:13:47.167 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@51d2dc9c
+2020-12-15 17:13:47.299 [INFO ] com.source.utils.Files - file:jpg
+2020-12-15 17:13:47.299 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 17:14:04.014 [INFO ] com.source.system.controller.UploadFileController - 文件名：2020/12/15/image-b4dd5f054bbe4bebb6c5b8b5f884bd8f.jpg
+2020-12-15 17:14:36.768 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@21adcb86
+2020-12-15 17:14:36.768 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@21adcb86
+2020-12-15 17:14:36.827 [INFO ] com.source.utils.Files - file:png
+2020-12-15 17:14:36.828 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 17:14:43.291 [INFO ] com.source.system.controller.UploadFileController - 文件名：2020/12/15/image-ef695b9b16834281bf046ffb1ec12a89.png
+2020-12-15 17:16:57.681 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@50343eed
+2020-12-15 17:16:57.682 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@50343eed
+2020-12-15 17:16:57.745 [INFO ] com.source.utils.Files - file:jpg
+2020-12-15 17:16:57.745 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 17:18:05.307 [INFO ] com.source.system.controller.UploadFileController - 文件名：2020/12/15/image-589cd680a9fa497aa3b21a2f204ec3d3.jpg
+2020-12-15 17:20:11.785 [INFO ] com.source.boot - Starting boot on DESKTOP-5EB3B7K with PID 22120 (E:\source\cloud-manage\manage-web\target\classes started by MI in E:\source\cloud-manage)
+2020-12-15 17:20:11.789 [INFO ] com.source.boot - No active profile set, falling back to default profiles: default
+2020-12-15 17:20:13.516 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-12-15 17:20:13.524 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-12-15 17:20:13.525 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-15 17:20:13.525 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-12-15 17:20:13.685 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-15 17:20:13.686 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1832 ms
+2020-12-15 17:20:16.120 [INFO ] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-15 17:20:16.190 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-15 17:20:16.367 [INFO ] org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: af53d6e1-f843-4eac-b7e6-75fb31766eec
+
+2020-12-15 17:20:16.431 [INFO ] org.springframework.security.web.DefaultSecurityFilterChain - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4cc65c2, org.springframework.security.web.context.SecurityContextPersistenceFilter@43ecfeb5, org.springframework.security.web.header.HeaderWriterFilter@f557c37, org.springframework.security.web.authentication.logout.LogoutFilter@7792d851, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@53940e2f, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@14422d9d, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@574059d5, org.springframework.security.web.session.SessionManagementFilter@52ea0269, org.springframework.security.web.access.ExceptionTranslationFilter@79476a4e]
+2020-12-15 17:20:16.465 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-12-15 17:20:16.486 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-12-15 17:20:16.487 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-15 17:20:16.502 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-15 17:20:16.533 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-15 17:20:16.692 [INFO ] com.source.boot - Started boot in 5.493 seconds (JVM running for 7.42)
+2020-12-15 17:20:31.233 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-15 17:20:31.328 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@4c298222
+2020-12-15 17:20:31.328 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@4c298222
+2020-12-15 17:20:32.728 [INFO ] com.source.utils.Files - file:png
+2020-12-15 17:20:32.732 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 17:21:00.023 [INFO ] com.source.system.controller.UploadFileController - 文件名：2020/12/15/image-5d97d1a691bb44e5a8b9c6f4635ce10b.png
+2020-12-15 17:23:30.772 [INFO ] com.source.boot - Starting boot on DESKTOP-5EB3B7K with PID 6424 (E:\source\cloud-manage\manage-web\target\classes started by MI in E:\source\cloud-manage)
+2020-12-15 17:23:30.777 [INFO ] com.source.boot - No active profile set, falling back to default profiles: default
+2020-12-15 17:23:32.394 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-12-15 17:23:32.404 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-12-15 17:23:32.405 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-15 17:23:32.405 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-12-15 17:23:32.590 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-15 17:23:32.591 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1759 ms
+2020-12-15 17:23:36.025 [INFO ] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-15 17:23:36.196 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-15 17:23:36.673 [INFO ] org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 31c384e8-a30b-43b2-a495-b8a0e4062bc2
+
+2020-12-15 17:23:36.830 [INFO ] org.springframework.security.web.DefaultSecurityFilterChain - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@12448de1, org.springframework.security.web.context.SecurityContextPersistenceFilter@63c99f7, org.springframework.security.web.header.HeaderWriterFilter@6ace919c, org.springframework.security.web.authentication.logout.LogoutFilter@20fcea37, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@601f264d, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@7f5e6833, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2b35c7aa, org.springframework.security.web.session.SessionManagementFilter@74cd798f, org.springframework.security.web.access.ExceptionTranslationFilter@1850f2da]
+2020-12-15 17:23:36.893 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-12-15 17:23:36.955 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-12-15 17:23:36.958 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-15 17:23:36.994 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-15 17:23:37.075 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-15 17:23:37.410 [INFO ] com.source.boot - Started boot in 7.4 seconds (JVM running for 9.746)
+2020-12-15 17:24:04.954 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-15 17:24:05.212 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@14b92c27
+2020-12-15 17:24:05.213 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@14b92c27
+2020-12-15 17:24:07.463 [INFO ] com.source.utils.Files - file:png
+2020-12-15 17:24:07.468 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 17:25:03.828 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-12-15 17:25:04.208 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-12-15 17:25:57.242 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@7c941409
+2020-12-15 17:25:57.242 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@7c941409
+2020-12-15 17:25:57.319 [INFO ] com.source.utils.Files - file:jpg
+2020-12-15 17:25:57.320 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 17:30:15.153 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@7f451e97
+2020-12-15 17:30:15.153 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@7f451e97
+2020-12-15 17:30:15.217 [INFO ] com.source.utils.Files - file:png
+2020-12-15 17:30:15.217 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 17:30:37.048 [INFO ] com.source.system.controller.TbUserController - userTbUser(id=null, username=1, nickname=root, email=, avatar=null, phoneNumber=14582585954, status=null, createTime=null, modifiedTime=null, sex=1, salt=null, type=null, password=123dsdadad, birth=null, departmentId=1, deleted=false, name=null)
+2020-12-15 17:30:37.175 [INFO ] com.source.handler.MyMetaObjectHandler - start insert fill ....
+2020-12-15 17:32:53.798 [INFO ] com.source.system.controller.UploadFileController - 文件名：2020/12/15/image-ee67aa3ed24e47cab95f233d1b20ae2b.png
+2020-12-15 17:33:04.785 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@3077d855
+2020-12-15 17:33:04.786 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@3077d855
+2020-12-15 17:33:04.836 [INFO ] com.source.utils.Files - file:png
+2020-12-15 17:33:04.836 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 17:33:23.459 [INFO ] com.source.system.controller.TbUserController - userTbUser(id=null, username=1, nickname=root, email=, avatar=null, phoneNumber=17852595475, status=null, createTime=null, modifiedTime=null, sex=1, salt=null, type=null, password=123asdsdsda, birth=null, departmentId=1, deleted=false, name=null)
+2020-12-15 17:33:23.576 [INFO ] com.source.handler.MyMetaObjectHandler - start insert fill ....
+2020-12-15 17:38:00.831 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@74a198c6
+2020-12-15 17:38:00.831 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@74a198c6
+2020-12-15 17:38:00.925 [INFO ] com.source.utils.Files - file:png
+2020-12-15 17:38:00.926 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 17:38:34.936 [INFO ] com.source.system.controller.TbUserController - userTbUser(id=null, username=111, nickname=root, email=, avatar=https://managers.oss-cn-shenzhen.aliyuncs.com/2020/12/15/image-653eaaf9f76046f9b168e6f9d21e80bb.png, phoneNumber=17608548575, status=null, createTime=null, modifiedTime=null, sex=1, salt=null, type=null, password=123sddadasdas, birth=null, departmentId=1, deleted=false, name=null)
+2020-12-15 17:38:35.042 [INFO ] com.source.handler.MyMetaObjectHandler - start insert fill ....
+2020-12-15 17:46:06.807 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@4f3dcd62
+2020-12-15 17:46:06.807 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@4f3dcd62
+2020-12-15 17:46:06.877 [INFO ] com.source.utils.Files - file:png
+2020-12-15 17:46:06.877 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 17:46:26.981 [INFO ] com.source.system.controller.TbUserController - userTbUser(id=null, username=1, nickname=root, email=, avatar=https://managers.oss-cn-shenzhen.aliyuncs.com/2020/12/15/image-a424be5c772d43bb91cbeb5fa8f740b8.png, phoneNumber=14585958545, status=null, createTime=null, modifiedTime=null, sex=null, salt=null, type=null, password=123sdadsasda, birth=null, departmentId=1, deleted=false, name=null)
+2020-12-15 17:46:27.097 [INFO ] com.source.handler.MyMetaObjectHandler - start insert fill ....
+2020-12-15 18:17:48.705 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@3c5ec287
+2020-12-15 18:17:48.705 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@3c5ec287
+2020-12-15 18:17:48.799 [INFO ] com.source.utils.Files - file:gif
+2020-12-15 18:17:48.799 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 18:21:22.317 [INFO ] com.source.system.controller.TbUserController - userTbUser(id=null, username=root, nickname=root, email=1@qq.com, avatar=https://managers.oss-cn-shenzhen.aliyuncs.com/2020/12/15/image-30b4ef29bb5b43e4ae199c11b2309793.gif, phoneNumber=17685259585, status=null, createTime=null, modifiedTime=null, sex=1, salt=null, type=null, password=123456aaa, birth=Tue Dec 15 00:00:00 CST 2020, departmentId=14, deleted=false, name=null)
+2020-12-15 18:21:22.429 [INFO ] com.source.handler.MyMetaObjectHandler - start insert fill ....
+2020-12-15 18:28:48.804 [INFO ] com.source.system.controller.UploadFileController - 删除文件出错！
+2020-12-15 18:28:58.042 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@21ef5e50
+2020-12-15 18:28:58.042 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@21ef5e50
+2020-12-15 18:28:58.118 [INFO ] com.source.utils.Files - file:png
+2020-12-15 18:28:58.118 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 18:29:01.495 [INFO ] com.source.system.controller.UploadFileController - 文件名：2020/12/15/image-9ecbde0044034873b427061494cb7cef.png
+2020-12-15 18:29:22.427 [INFO ] com.source.system.controller.UploadFileController - 删除文件出错！
+2020-12-15 18:46:34.815 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@6e7e46ea
+2020-12-15 18:46:34.815 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@6e7e46ea
+2020-12-15 18:46:34.916 [INFO ] com.source.utils.Files - file:png
+2020-12-15 18:46:34.917 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 18:46:38.070 [INFO ] com.source.system.controller.UploadFileController - 文件名：2020/12/15/image-a2c5910ccfcf4352a2894615194eb145.png
+2020-12-15 18:47:14.689 [INFO ] com.source.system.controller.UploadFileController - 文件名：2020/12/15/image-a2c5910ccfcf4352a2894615194eb145.png
+2020-12-15 18:47:40.774 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@5675d757
+2020-12-15 18:47:40.774 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@5675d757
+2020-12-15 18:47:40.819 [INFO ] com.source.utils.Files - file:png
+2020-12-15 18:47:40.819 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 18:47:43.297 [INFO ] com.source.system.controller.UploadFileController - 文件名：2020/12/15/image-928da98d902640edaab1ac78d87e9ebd.png
+2020-12-15 18:49:21.751 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@7f0c27d3
+2020-12-15 18:49:21.752 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@7f0c27d3
+2020-12-15 18:49:21.811 [INFO ] com.source.utils.Files - file:png
+2020-12-15 18:49:21.812 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 18:49:24.059 [INFO ] com.source.system.controller.UploadFileController - 文件名：2020/12/15/image-ea7027b4146f4712a8880283b91f7257.png
+2020-12-15 18:50:19.569 [INFO ] com.source.system.controller.UploadFileController - 删除文件出错！
+2020-12-15 18:52:07.657 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@918521e
+2020-12-15 18:52:07.658 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@918521e
+2020-12-15 18:52:07.707 [INFO ] com.source.utils.Files - file:png
+2020-12-15 18:52:07.708 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 18:52:10.130 [INFO ] com.source.system.controller.UploadFileController - 文件名：2020/12/15/image-75bd717dca9f4955affb600c2b20d0f2.png
+2020-12-15 18:52:37.713 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@1b990d1a
+2020-12-15 18:52:37.714 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@1b990d1a
+2020-12-15 18:52:37.792 [INFO ] com.source.utils.Files - file:png
+2020-12-15 18:52:37.793 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 18:52:42.573 [INFO ] com.source.system.controller.UploadFileController - 文件名：2020/12/15/image-fd2559e0e1bd4ea9a9fd2132a4a7a428.png
+2020-12-15 18:57:22.489 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@2234113c
+2020-12-15 18:57:22.489 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@2234113c
+2020-12-15 18:57:22.575 [INFO ] com.source.utils.Files - file:png
+2020-12-15 18:57:22.576 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 18:57:31.950 [INFO ] com.source.system.controller.UploadFileController - 文件名：2020/12/15/image-7e52da85aa9145af8a6061021d07799f.png
+2020-12-15 18:58:43.102 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@18559525
+2020-12-15 18:58:43.103 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@18559525
+2020-12-15 18:58:43.154 [INFO ] com.source.utils.Files - file:png
+2020-12-15 18:58:43.155 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 18:58:45.656 [INFO ] com.source.system.controller.UploadFileController - 文件名：2020/12/15/image-941c3ee71e2f486d976380af57664ec4.png
+2020-12-15 19:01:23.084 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@88b0c02
+2020-12-15 19:01:23.085 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@88b0c02
+2020-12-15 19:01:23.157 [INFO ] com.source.utils.Files - file:png
+2020-12-15 19:01:23.158 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 19:01:26.499 [INFO ] com.source.system.controller.UploadFileController - 文件名：2020/12/15/image-c349fdbb009a46fdaf73de0b3fd94b99.png
+2020-12-15 19:05:35.233 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@67d649e9
+2020-12-15 19:05:35.234 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@67d649e9
+2020-12-15 19:05:35.313 [INFO ] com.source.utils.Files - file:jpg
+2020-12-15 19:05:35.313 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 19:05:38.075 [INFO ] com.source.system.controller.UploadFileController - 文件名：2020/12/15/image-09a7de8bdee24b769f29fc05b93086f4.jpg
+2020-12-15 19:06:48.483 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@117b00fd
+2020-12-15 19:06:48.483 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@117b00fd
+2020-12-15 19:06:48.537 [INFO ] com.source.utils.Files - file:jpg
+2020-12-15 19:06:48.537 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 19:07:12.186 [INFO ] com.source.system.controller.TbUserController - userTbUser(id=null, username=1, nickname=superadmin, email=, avatar=https://managers.oss-cn-shenzhen.aliyuncs.com/2020/12/15/image-fbea6df3e12f4d1c9fa634fdd46ab603.jpg, phoneNumber=14584584578, status=null, createTime=null, modifiedTime=null, sex=null, salt=null, type=null, password=123456sdsdsds, birth=null, departmentId=1, deleted=false, name=null)
+2020-12-15 19:07:12.300 [INFO ] com.source.handler.MyMetaObjectHandler - start insert fill ....
+2020-12-15 19:09:20.067 [INFO ] com.source.system.controller.UploadFileController - 文件名：2020/12/15/image-fbea6df3e12f4d1c9fa634fdd46ab603.jpg
+2020-12-15 19:09:50.735 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@7b5ae099
+2020-12-15 19:09:50.736 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@7b5ae099
+2020-12-15 19:09:50.775 [INFO ] com.source.utils.Files - file:gif
+2020-12-15 19:09:50.775 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 19:10:09.217 [INFO ] com.source.system.controller.TbUserController - userTbUser(id=null, username=111111, nickname=root, email=, avatar=https://managers.oss-cn-shenzhen.aliyuncs.com/2020/12/15/image-6ae6320e58154c1aa462617b489824c9.gif, phoneNumber=14585458597, status=null, createTime=null, modifiedTime=null, sex=1, salt=null, type=null, password=123sdsdsdsdsdsds, birth=null, departmentId=16, deleted=false, name=null)
+2020-12-15 19:10:09.332 [INFO ] com.source.handler.MyMetaObjectHandler - start insert fill ....
+2020-12-15 19:10:39.631 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@2aa18bad
+2020-12-15 19:10:39.631 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@2aa18bad
+2020-12-15 19:10:39.711 [INFO ] com.source.utils.Files - file:jpg
+2020-12-15 19:10:39.712 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 19:10:49.651 [INFO ] com.source.system.controller.TbUserController - userTbUser(id=null, username=1, nickname=root, email=, avatar=https://managers.oss-cn-shenzhen.aliyuncs.com/2020/12/15/image-4eff648e8c5e4e9291ef7604a85ac38a.jpg, phoneNumber=14558457454, status=null, createTime=null, modifiedTime=null, sex=1, salt=null, type=null, password=123sdsdsdsdsd, birth=null, departmentId=12, deleted=false, name=null)
+2020-12-15 19:10:49.766 [INFO ] com.source.handler.MyMetaObjectHandler - start insert fill ....
+2020-12-15 19:14:02.977 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-15 19:14:02.978 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-12-15 19:14:02.983 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-12-15 19:14:18.315 [INFO ] com.source.boot - Starting boot on DESKTOP-5EB3B7K with PID 5016 (E:\source\cloud-manage\manage-web\target\classes started by MI in E:\source\cloud-manage)
+2020-12-15 19:14:18.320 [INFO ] com.source.boot - No active profile set, falling back to default profiles: default
+2020-12-15 19:14:19.965 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-12-15 19:14:19.974 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-12-15 19:14:19.976 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-15 19:14:19.976 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-12-15 19:14:20.150 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-15 19:14:20.150 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1770 ms
+2020-12-15 19:14:22.962 [INFO ] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-15 19:14:23.071 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-15 19:14:23.401 [INFO ] org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 6ea134b9-5094-4031-bb4c-261064a57910
+
+2020-12-15 19:14:23.545 [INFO ] org.springframework.security.web.DefaultSecurityFilterChain - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@68b3248a, org.springframework.security.web.context.SecurityContextPersistenceFilter@6e517c9e, org.springframework.security.web.header.HeaderWriterFilter@734f8317, org.springframework.security.web.authentication.logout.LogoutFilter@7f305f34, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@76b5a559, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@4403bff8, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@5e158f33, org.springframework.security.web.session.SessionManagementFilter@37d6dddc, org.springframework.security.web.access.ExceptionTranslationFilter@42ecc554]
+2020-12-15 19:14:23.624 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-12-15 19:14:23.667 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-12-15 19:14:23.668 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-15 19:14:23.697 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-15 19:14:23.773 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-15 19:14:24.064 [INFO ] com.source.boot - Started boot in 6.825 seconds (JVM running for 8.984)
+2020-12-15 19:14:40.874 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-15 19:14:48.366 [INFO ] com.source.boot - Starting boot on DESKTOP-5EB3B7K with PID 21308 (E:\source\cloud-manage\manage-web\target\classes started by MI in E:\source\cloud-manage)
+2020-12-15 19:14:48.370 [INFO ] com.source.boot - No active profile set, falling back to default profiles: default
+2020-12-15 19:14:50.011 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-12-15 19:14:50.023 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-12-15 19:14:50.024 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-15 19:14:50.025 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-12-15 19:14:50.230 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-15 19:14:50.230 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1805 ms
+2020-12-15 19:14:52.850 [INFO ] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-15 19:14:52.940 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-15 19:14:53.150 [INFO ] org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: f2c7b290-def9-4fcd-9e37-10d0b4269def
+
+2020-12-15 19:14:53.226 [INFO ] org.springframework.security.web.DefaultSecurityFilterChain - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7d088813, org.springframework.security.web.context.SecurityContextPersistenceFilter@6723cce7, org.springframework.security.web.header.HeaderWriterFilter@74ebd159, org.springframework.security.web.authentication.logout.LogoutFilter@2036f83, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@314f59b, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@15e8c040, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@134abd78, org.springframework.security.web.session.SessionManagementFilter@2e8b24a1, org.springframework.security.web.access.ExceptionTranslationFilter@455cbf18]
+2020-12-15 19:14:53.265 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-12-15 19:14:53.290 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-12-15 19:14:53.291 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-15 19:14:53.305 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-15 19:14:53.339 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-15 19:14:53.525 [INFO ] com.source.boot - Started boot in 5.93 seconds (JVM running for 8.096)
+2020-12-15 19:15:26.434 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-15 19:15:26.595 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-12-15 19:15:26.780 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-12-15 19:15:57.119 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@6c9c278c
+2020-12-15 19:15:57.120 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@6c9c278c
+2020-12-15 19:15:59.653 [INFO ] com.source.utils.Files - file:png
+2020-12-15 19:15:59.654 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 19:16:25.223 [INFO ] com.source.system.controller.TbUserController - userTbUser(id=null, username=1, nickname=superadmin, email=, avatar=https://managers.oss-cn-shenzhen.aliyuncs.com/2020/12/15/image-b8f29e5255364f658839449faca971ef.png, phoneNumber=17548525955, status=null, createTime=null, modifiedTime=null, sex=1, salt=null, type=null, password=123456sdsdsdsdsd, birth=null, departmentId=16, deleted=false, name=null)
+2020-12-15 19:23:27.211 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-15 19:23:27.213 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-12-15 19:23:27.219 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-12-15 19:23:34.971 [INFO ] com.source.boot - Starting boot on DESKTOP-5EB3B7K with PID 15556 (E:\source\cloud-manage\manage-web\target\classes started by MI in E:\source\cloud-manage)
+2020-12-15 19:23:34.977 [INFO ] com.source.boot - No active profile set, falling back to default profiles: default
+2020-12-15 19:23:36.796 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-12-15 19:23:36.807 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-12-15 19:23:36.808 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-15 19:23:36.808 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-12-15 19:23:36.989 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-15 19:23:36.990 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1941 ms
+2020-12-15 19:23:39.436 [INFO ] springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-15 19:23:39.520 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-15 19:23:39.742 [INFO ] org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: c51ffaad-4e11-475c-9d32-1bb0d6cd8fe8
+
+2020-12-15 19:23:39.818 [INFO ] org.springframework.security.web.DefaultSecurityFilterChain - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@48fc0211, org.springframework.security.web.context.SecurityContextPersistenceFilter@2e8b24a1, org.springframework.security.web.header.HeaderWriterFilter@455cbf18, org.springframework.security.web.authentication.logout.LogoutFilter@35e07e19, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@6723cce7, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@10bdfbcc, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3ae2702a, org.springframework.security.web.session.SessionManagementFilter@76b5a559, org.springframework.security.web.access.ExceptionTranslationFilter@59313495]
+2020-12-15 19:23:39.857 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-12-15 19:23:39.883 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-12-15 19:23:39.885 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-15 19:23:39.900 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-15 19:23:39.937 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-15 19:23:40.126 [INFO ] com.source.boot - Started boot in 5.976 seconds (JVM running for 8.041)
+2020-12-15 19:23:58.613 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-15 19:23:58.719 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@1b3040bd
+2020-12-15 19:23:58.720 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@1b3040bd
+2020-12-15 19:24:00.240 [INFO ] com.source.utils.Files - file:jpg
+2020-12-15 19:24:00.244 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 19:24:18.160 [INFO ] com.source.system.controller.TbUserController - userTbUser(id=null, username=1, nickname=superadmin, email=, avatar=https://managers.oss-cn-shenzhen.aliyuncs.com/2020/12/15/image-6fafe2080c8d496dbad9f3f3c50b7648.jpg, phoneNumber=14585458745, status=null, createTime=null, modifiedTime=null, sex=1, salt=null, type=null, password=123456sdsdsdsd, birth=null, departmentId=1, deleted=false, name=null)
+2020-12-15 19:24:18.256 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-12-15 19:24:18.415 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-12-15 19:25:48.912 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@5f274e54
+2020-12-15 19:25:48.912 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@5f274e54
+2020-12-15 19:25:49.010 [INFO ] com.source.utils.Files - file:jpg
+2020-12-15 19:25:49.010 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 19:26:10.893 [INFO ] com.source.system.controller.TbUserController - userTbUser(id=null, username=1, nickname=root, email=, avatar=https://managers.oss-cn-shenzhen.aliyuncs.com/2020/12/15/image-290ed0c367fd47eeabde5fb7610200ea.jpg, phoneNumber=15545485954, status=null, createTime=null, modifiedTime=null, sex=1, salt=null, type=null, password=123ddssdsd, birth=null, departmentId=1, deleted=false, name=null)
+2020-12-15 19:26:47.136 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@7bdc84d
+2020-12-15 19:26:47.136 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@7bdc84d
+2020-12-15 19:26:47.204 [INFO ] com.source.utils.Files - file:jpg
+2020-12-15 19:26:47.205 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 19:26:55.880 [INFO ] com.source.system.controller.UploadFileController - 文件名：2020/12/15/image-4a1e5f256cd94d438f904ef4ed151467.jpg
+2020-12-15 19:27:02.878 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@26d47d67
+2020-12-15 19:27:02.879 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@26d47d67
+2020-12-15 19:27:02.935 [INFO ] com.source.utils.Files - file:gif
+2020-12-15 19:27:02.936 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 19:27:35.626 [INFO ] com.source.system.controller.TbUserController - userTbUser(id=null, username=admin, nickname=root, email=, avatar=https://managers.oss-cn-shenzhen.aliyuncs.com/2020/12/15/image-c91583d3f4114c74a168bff1f6047bfe.gif, phoneNumber=15552525858, status=null, createTime=null, modifiedTime=null, sex=1, salt=null, type=null, password=a12345678, birth=null, departmentId=14, deleted=false, name=null)
+2020-12-15 19:27:35.741 [INFO ] com.source.handler.MyMetaObjectHandler - start insert fill ....
+2020-12-15 19:27:46.979 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@20c880bf
+2020-12-15 19:27:46.980 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@20c880bf
+2020-12-15 19:27:47.038 [INFO ] com.source.utils.Files - file:png
+2020-12-15 19:27:47.039 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 19:27:59.604 [INFO ] com.source.system.controller.TbUserController - userTbUser(id=null, username=admin, nickname=root, email=, avatar=https://managers.oss-cn-shenzhen.aliyuncs.com/2020/12/15/image-d3868139886b45f1ba8879df657c9177.png, phoneNumber=15858526589, status=null, createTime=null, modifiedTime=null, sex=null, salt=null, type=null, password=123sdasdasdadad, birth=null, departmentId=15, deleted=false, name=null)
+2020-12-15 19:30:43.962 [INFO ] com.source.system.controller.UploadFileController - fileName:org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@21facd53
+2020-12-15 19:30:43.962 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileorg.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@21facd53
+2020-12-15 19:30:44.038 [INFO ] com.source.utils.Files - file:png
+2020-12-15 19:30:44.038 [INFO ] com.source.system.service.impl.AliOssServiceImpl - fileimage
+2020-12-15 19:30:47.813 [INFO ] com.source.system.controller.UploadFileController - 文件名：2020/12/15/image-c89d99956b62422d8c24e184eec8b59f.png

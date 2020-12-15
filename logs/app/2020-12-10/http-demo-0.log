@@ -1,0 +1,145 @@
+2020-12-10 09:08:36.498 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: SELECT COUNT(1) FROM tb_user u INNER JOIN tb_department d ON u.department_id = d.id
+2020-12-10 09:08:36.500 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 
+2020-12-10 09:08:36.502 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: select u.`id`, `username`, `nickname`, `email`, `avatar`, `phone_number`, `status`, u.`create_time`, u.`modified_time`, `sex`, `salt`, `type`, `password`, `birth`, `department_id`, `deleted`,d.name as name from tb_user u inner join tb_department d on u.department_id = d.id LIMIT ?
+2020-12-10 09:08:36.503 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 7(Long)
+2020-12-10 09:08:36.505 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - <==      Total: 7
+2020-12-10 09:11:46.156 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: SELECT COUNT(1) FROM tb_user u INNER JOIN tb_department d ON u.department_id = d.id
+2020-12-10 09:11:46.157 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 
+2020-12-10 09:11:46.159 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: select u.`id`, `username`, `nickname`, `email`, `avatar`, `phone_number`, `status`, u.`create_time`, u.`modified_time`, `sex`, `salt`, `type`, `password`, `birth`, `department_id`, `deleted`,d.name as name from tb_user u inner join tb_department d on u.department_id = d.id LIMIT ?
+2020-12-10 09:11:46.160 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 7(Long)
+2020-12-10 09:11:46.163 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - <==      Total: 7
+2020-12-10 09:16:15.035 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: SELECT COUNT(1) FROM tb_user u INNER JOIN tb_department d ON u.department_id = d.id
+2020-12-10 09:16:15.035 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 
+2020-12-10 09:16:15.037 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: select u.`id`, `username`, `nickname`, `email`, `avatar`, `phone_number`, `status`, u.`create_time`, u.`modified_time`, `sex`, `salt`, `type`, `password`, `birth`, `department_id`, `deleted`,d.name as name from tb_user u inner join tb_department d on u.department_id = d.id LIMIT ?
+2020-12-10 09:16:15.038 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 7(Long)
+2020-12-10 09:16:15.041 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - <==      Total: 7
+2020-12-10 09:27:28.840 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: SELECT COUNT(1) FROM tb_user u INNER JOIN tb_department d ON u.department_id = d.id
+2020-12-10 09:27:28.841 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 
+2020-12-10 09:27:28.842 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: select u.`id`, `username`, `nickname`, `email`, `avatar`, `phone_number`, `status`, u.`create_time`, u.`modified_time`, `sex`, `salt`, `type`, `password`, `birth`, `department_id`, `deleted`,d.name as name from tb_user u inner join tb_department d on u.department_id = d.id LIMIT ?
+2020-12-10 09:27:28.843 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 7(Long)
+2020-12-10 09:27:28.845 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - <==      Total: 7
+2020-12-10 09:27:54.533 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: SELECT COUNT(1) FROM tb_user u INNER JOIN tb_department d ON u.department_id = d.id
+2020-12-10 09:27:54.534 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 
+2020-12-10 09:27:54.535 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: select u.`id`, `username`, `nickname`, `email`, `avatar`, `phone_number`, `status`, u.`create_time`, u.`modified_time`, `sex`, `salt`, `type`, `password`, `birth`, `department_id`, `deleted`,d.name as name from tb_user u inner join tb_department d on u.department_id = d.id LIMIT ?
+2020-12-10 09:27:54.536 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 7(Long)
+2020-12-10 09:27:54.539 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - <==      Total: 7
+2020-12-10 09:28:29.624 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: SELECT COUNT(1) FROM tb_user u INNER JOIN tb_department d ON u.department_id = d.id
+2020-12-10 09:28:29.625 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 
+2020-12-10 09:28:29.627 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: select u.`id`, `username`, `nickname`, `email`, `avatar`, `phone_number`, `status`, u.`create_time`, u.`modified_time`, `sex`, `salt`, `type`, `password`, `birth`, `department_id`, `deleted`,d.name as name from tb_user u inner join tb_department d on u.department_id = d.id LIMIT ?
+2020-12-10 09:28:29.628 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 7(Long)
+2020-12-10 09:28:29.630 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - <==      Total: 7
+2020-12-10 09:48:36.072 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: SELECT COUNT(1) FROM tb_user u INNER JOIN tb_department d ON u.department_id = d.id
+2020-12-10 09:48:36.072 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 
+2020-12-10 09:48:36.074 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: select u.`id`, `username`, `nickname`, `email`, `avatar`, `phone_number`, `status`, u.`create_time`, u.`modified_time`, `sex`, `salt`, `type`, `password`, `birth`, `department_id`, `deleted`,d.name as name from tb_user u inner join tb_department d on u.department_id = d.id LIMIT ?
+2020-12-10 09:48:36.075 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 7(Long)
+2020-12-10 09:48:36.077 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - <==      Total: 7
+2020-12-10 17:32:37.657 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: SELECT COUNT(1) FROM tb_user u INNER JOIN tb_department d ON u.department_id = d.id
+2020-12-10 17:32:37.706 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 
+2020-12-10 17:32:37.774 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: select u.`id`, `username`, `nickname`, `email`, `avatar`, `phone_number`, `status`, u.`create_time`, u.`modified_time`, `sex`, `salt`, `type`, `password`, `birth`, `department_id`, `deleted`,d.name as name from tb_user u inner join tb_department d on u.department_id = d.id LIMIT ?
+2020-12-10 17:32:37.777 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 7(Long)
+2020-12-10 17:32:37.791 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - <==      Total: 7
+2020-12-10 17:35:31.963 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: SELECT COUNT(1) FROM tb_user u INNER JOIN tb_department d ON u.department_id = d.id
+2020-12-10 17:35:31.964 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 
+2020-12-10 17:35:31.966 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: select u.`id`, `username`, `nickname`, `email`, `avatar`, `phone_number`, `status`, u.`create_time`, u.`modified_time`, `sex`, `salt`, `type`, `password`, `birth`, `department_id`, `deleted`,d.name as name from tb_user u inner join tb_department d on u.department_id = d.id LIMIT ?
+2020-12-10 17:35:31.968 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 7(Long)
+2020-12-10 17:35:31.973 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - <==      Total: 7
+2020-12-10 17:37:44.916 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: SELECT COUNT(1) FROM tb_user u INNER JOIN tb_department d ON u.department_id = d.id
+2020-12-10 17:37:44.916 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 
+2020-12-10 17:37:44.919 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: select u.`id`, `username`, `nickname`, `email`, `avatar`, `phone_number`, `status`, u.`create_time`, u.`modified_time`, `sex`, `salt`, `type`, `password`, `birth`, `department_id`, `deleted`,d.name as name from tb_user u inner join tb_department d on u.department_id = d.id LIMIT ?
+2020-12-10 17:37:44.920 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 7(Long)
+2020-12-10 17:37:44.928 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - <==      Total: 7
+2020-12-10 17:38:41.515 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: SELECT COUNT(1) FROM tb_user u INNER JOIN tb_department d ON u.department_id = d.id
+2020-12-10 17:38:41.516 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 
+2020-12-10 17:38:41.518 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: select u.`id`, `username`, `nickname`, `email`, `avatar`, `phone_number`, `status`, u.`create_time`, u.`modified_time`, `sex`, `salt`, `type`, `password`, `birth`, `department_id`, `deleted`,d.name as name from tb_user u inner join tb_department d on u.department_id = d.id LIMIT ?
+2020-12-10 17:38:41.518 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 7(Long)
+2020-12-10 17:38:41.522 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - <==      Total: 7
+2020-12-10 17:38:57.253 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: SELECT COUNT(1) FROM tb_user u INNER JOIN tb_department d ON u.department_id = d.id
+2020-12-10 17:38:57.253 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 
+2020-12-10 17:38:57.255 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: select u.`id`, `username`, `nickname`, `email`, `avatar`, `phone_number`, `status`, u.`create_time`, u.`modified_time`, `sex`, `salt`, `type`, `password`, `birth`, `department_id`, `deleted`,d.name as name from tb_user u inner join tb_department d on u.department_id = d.id LIMIT ?
+2020-12-10 17:38:57.256 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 7(Long)
+2020-12-10 17:38:57.260 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - <==      Total: 7
+2020-12-10 17:39:00.887 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: SELECT COUNT(1) FROM tb_user u INNER JOIN tb_department d ON u.department_id = d.id
+2020-12-10 17:39:00.888 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 
+2020-12-10 17:39:00.890 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: select u.`id`, `username`, `nickname`, `email`, `avatar`, `phone_number`, `status`, u.`create_time`, u.`modified_time`, `sex`, `salt`, `type`, `password`, `birth`, `department_id`, `deleted`,d.name as name from tb_user u inner join tb_department d on u.department_id = d.id LIMIT ?
+2020-12-10 17:39:00.891 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 7(Long)
+2020-12-10 17:39:00.893 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - <==      Total: 7
+2020-12-10 17:41:14.675 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: SELECT COUNT(1) FROM tb_user u INNER JOIN tb_department d ON u.department_id = d.id
+2020-12-10 17:41:14.676 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 
+2020-12-10 17:41:14.677 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: select u.`id`, `username`, `nickname`, `email`, `avatar`, `phone_number`, `status`, u.`create_time`, u.`modified_time`, `sex`, `salt`, `type`, `password`, `birth`, `department_id`, `deleted`,d.name as name from tb_user u inner join tb_department d on u.department_id = d.id LIMIT ?
+2020-12-10 17:41:14.678 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 7(Long)
+2020-12-10 17:41:14.682 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - <==      Total: 7
+2020-12-10 17:42:45.200 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: SELECT COUNT(1) FROM tb_user u INNER JOIN tb_department d ON u.department_id = d.id
+2020-12-10 17:42:45.200 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 
+2020-12-10 17:42:45.202 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: select u.`id`, `username`, `nickname`, `email`, `avatar`, `phone_number`, `status`, u.`create_time`, u.`modified_time`, `sex`, `salt`, `type`, `password`, `birth`, `department_id`, `deleted`,d.name as name from tb_user u inner join tb_department d on u.department_id = d.id LIMIT ?
+2020-12-10 17:42:45.204 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 7(Long)
+2020-12-10 17:42:45.207 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - <==      Total: 7
+2020-12-10 17:42:49.544 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: SELECT COUNT(1) FROM tb_user u INNER JOIN tb_department d ON u.department_id = d.id
+2020-12-10 17:42:49.545 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 
+2020-12-10 17:42:49.547 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: select u.`id`, `username`, `nickname`, `email`, `avatar`, `phone_number`, `status`, u.`create_time`, u.`modified_time`, `sex`, `salt`, `type`, `password`, `birth`, `department_id`, `deleted`,d.name as name from tb_user u inner join tb_department d on u.department_id = d.id LIMIT ?
+2020-12-10 17:42:49.548 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 7(Long)
+2020-12-10 17:42:49.551 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - <==      Total: 7
+2020-12-10 17:44:41.466 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: SELECT COUNT(1) FROM tb_user u INNER JOIN tb_department d ON u.department_id = d.id
+2020-12-10 17:44:41.467 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 
+2020-12-10 17:44:41.469 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: select u.`id`, `username`, `nickname`, `email`, `avatar`, `phone_number`, `status`, u.`create_time`, u.`modified_time`, `sex`, `salt`, `type`, `password`, `birth`, `department_id`, `deleted`,d.name as name from tb_user u inner join tb_department d on u.department_id = d.id LIMIT ?
+2020-12-10 17:44:41.469 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 7(Long)
+2020-12-10 17:44:41.472 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - <==      Total: 7
+2020-12-10 17:48:00.456 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: SELECT COUNT(1) FROM tb_user u INNER JOIN tb_department d ON u.department_id = d.id
+2020-12-10 17:48:00.457 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 
+2020-12-10 17:48:00.458 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: select u.`id`, `username`, `nickname`, `email`, `avatar`, `phone_number`, `status`, u.`create_time`, u.`modified_time`, `sex`, `salt`, `type`, `password`, `birth`, `department_id`, `deleted`,d.name as name from tb_user u inner join tb_department d on u.department_id = d.id LIMIT ?
+2020-12-10 17:48:00.459 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 7(Long)
+2020-12-10 17:48:00.461 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - <==      Total: 7
+2020-12-10 17:58:08.358 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: SELECT COUNT(1) FROM tb_user u INNER JOIN tb_department d ON u.department_id = d.id
+2020-12-10 17:58:08.414 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 
+2020-12-10 17:58:08.488 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: select u.`id`, `username`, `nickname`, `email`, `avatar`, `phone_number`, `status`, u.`create_time`, u.`modified_time`, `sex`, `salt`, `type`, `password`, `birth`, `department_id`, `deleted`,d.name as name from tb_user u inner join tb_department d on u.department_id = d.id LIMIT ?
+2020-12-10 17:58:08.490 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 7(Long)
+2020-12-10 17:58:08.509 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - <==      Total: 7
+2020-12-10 18:10:17.809 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: SELECT COUNT(1) FROM tb_user u INNER JOIN tb_department d ON u.department_id = d.id
+2020-12-10 18:10:17.810 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 
+2020-12-10 18:10:17.812 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: select u.`id`, `username`, `nickname`, `email`, `avatar`, `phone_number`, `status`, u.`create_time`, u.`modified_time`, `sex`, `salt`, `type`, `password`, `birth`, `department_id`, `deleted`,d.name as name from tb_user u inner join tb_department d on u.department_id = d.id LIMIT ?
+2020-12-10 18:10:17.813 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 7(Long)
+2020-12-10 18:10:17.818 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - <==      Total: 7
+2020-12-10 19:09:38.270 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: SELECT COUNT(1) FROM tb_user u INNER JOIN tb_department d ON u.department_id = d.id
+2020-12-10 19:09:38.319 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 
+2020-12-10 19:09:38.357 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: select u.`id`, `username`, `nickname`, `email`, `avatar`, `phone_number`, `status`, u.`create_time`, u.`modified_time`, `sex`, `salt`, `type`, `password`, `birth`, `department_id`, `deleted`,d.name as name from tb_user u inner join tb_department d on u.department_id = d.id LIMIT ?
+2020-12-10 19:09:38.358 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 7(Long)
+2020-12-10 19:09:38.370 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - <==      Total: 7
+2020-12-10 19:12:36.959 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: SELECT COUNT(1) FROM tb_user u INNER JOIN tb_department d ON u.department_id = d.id
+2020-12-10 19:12:36.980 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 
+2020-12-10 19:12:37.008 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: select u.`id`, `username`, `nickname`, `email`, `avatar`, `phone_number`, `status`, u.`create_time`, u.`modified_time`, `sex`, `salt`, `type`, `password`, `birth`, `department_id`, `deleted`,d.name as name from tb_user u inner join tb_department d on u.department_id = d.id LIMIT ?
+2020-12-10 19:12:37.010 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 7(Long)
+2020-12-10 19:12:37.023 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - <==      Total: 7
+2020-12-10 19:37:15.899 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: SELECT COUNT(1) FROM tb_user u INNER JOIN tb_department d ON u.department_id = d.id
+2020-12-10 19:37:15.925 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 
+2020-12-10 19:37:15.961 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: select u.`id`, `username`, `nickname`, `email`, `avatar`, `phone_number`, `status`, u.`create_time`, u.`modified_time`, `sex`, `salt`, `type`, `password`, `birth`, `department_id`, `deleted`,d.name as name from tb_user u inner join tb_department d on u.department_id = d.id LIMIT ?
+2020-12-10 19:37:15.963 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 7(Long)
+2020-12-10 19:37:15.978 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - <==      Total: 7
+2020-12-10 19:38:11.723 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: SELECT COUNT(1) FROM tb_user u INNER JOIN tb_department d ON u.department_id = d.id
+2020-12-10 19:38:11.724 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 
+2020-12-10 19:38:11.726 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: select u.`id`, `username`, `nickname`, `email`, `avatar`, `phone_number`, `status`, u.`create_time`, u.`modified_time`, `sex`, `salt`, `type`, `password`, `birth`, `department_id`, `deleted`,d.name as name from tb_user u inner join tb_department d on u.department_id = d.id LIMIT ?
+2020-12-10 19:38:11.727 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 7(Long)
+2020-12-10 19:38:11.732 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - <==      Total: 7
+2020-12-10 19:39:00.447 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: SELECT COUNT(1) FROM tb_user u INNER JOIN tb_department d ON u.department_id = d.id
+2020-12-10 19:39:00.448 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 
+2020-12-10 19:39:00.450 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: select u.`id`, `username`, `nickname`, `email`, `avatar`, `phone_number`, `status`, u.`create_time`, u.`modified_time`, `sex`, `salt`, `type`, `password`, `birth`, `department_id`, `deleted`,d.name as name from tb_user u inner join tb_department d on u.department_id = d.id LIMIT ?
+2020-12-10 19:39:00.450 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 7(Long)
+2020-12-10 19:39:00.460 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - <==      Total: 7
+2020-12-10 19:44:33.521 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: SELECT COUNT(1) FROM tb_user u INNER JOIN tb_department d ON u.department_id = d.id
+2020-12-10 19:44:33.522 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 
+2020-12-10 19:44:33.524 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: select u.`id`, `username`, `nickname`, `email`, `avatar`, `phone_number`, `status`, u.`create_time`, u.`modified_time`, `sex`, `salt`, `type`, `password`, `birth`, `department_id`, `deleted`,d.name as name from tb_user u inner join tb_department d on u.department_id = d.id LIMIT ?
+2020-12-10 19:44:33.525 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 7(Long)
+2020-12-10 19:44:33.529 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - <==      Total: 7
+2020-12-10 19:57:04.424 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: SELECT COUNT(1) FROM tb_user u INNER JOIN tb_department d ON u.department_id = d.id
+2020-12-10 19:57:04.451 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 
+2020-12-10 19:57:04.489 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: select u.`id`, `username`, `nickname`, `email`, `avatar`, `phone_number`, `status`, u.`create_time`, u.`modified_time`, `sex`, `salt`, `type`, `password`, `birth`, `department_id`, `deleted`,d.name as name from tb_user u inner join tb_department d on u.department_id = d.id LIMIT ?
+2020-12-10 19:57:04.491 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 7(Long)
+2020-12-10 19:57:04.506 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - <==      Total: 7
+2020-12-10 20:37:49.585 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: SELECT COUNT(1) FROM tb_user u INNER JOIN tb_department d ON u.department_id = d.id
+2020-12-10 20:37:49.635 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 
+2020-12-10 20:37:49.675 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: select u.`id`, `username`, `nickname`, `email`, `avatar`, `phone_number`, `status`, u.`create_time`, u.`modified_time`, `sex`, `salt`, `type`, `password`, `birth`, `department_id`, `deleted`,d.name as name from tb_user u inner join tb_department d on u.department_id = d.id LIMIT ?
+2020-12-10 20:37:49.677 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 7(Long)
+2020-12-10 20:37:49.690 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - <==      Total: 7
+2020-12-10 21:02:18.202 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: SELECT COUNT(1) FROM tb_user u INNER JOIN tb_department d ON u.department_id = d.id
+2020-12-10 21:02:18.203 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 
+2020-12-10 21:02:18.205 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==>  Preparing: select u.`id`, `username`, `nickname`, `email`, `avatar`, `phone_number`, `status`, u.`create_time`, u.`modified_time`, `sex`, `salt`, `type`, `password`, `birth`, `department_id`, `deleted`,d.name as name from tb_user u inner join tb_department d on u.department_id = d.id LIMIT ?
+2020-12-10 21:02:18.205 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - ==> Parameters: 7(Long)
+2020-12-10 21:02:18.210 [DEBUG] com.source.system.mapper.TbUserMapper.findUserPage - <==      Total: 7

@@ -1,0 +1,9 @@
+2020-12-08 15:27:26.311 [http-nio-8081-exec-2] ERROR com.source.config.GlobalExceptionHandler - 账号不存在
+2020-12-08 20:43:51.445 [http-nio-8081-exec-5] ERROR com.source.config.GlobalExceptionHandler - 
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Unknown column 'u.deleted' in 'where clause'
+### The error may exist in file [E:\source\cloud-manage\manage-web\target\classes\mapper\TbDepartmentMapper.xml]
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: select d.id,                 d.name,                 IFNULL((select count(*)                      from tb_user u                      where u.department_id = d.id                      and u.deleted = 0                      group by department_id), 0) as deptCount                 from tb_department d
+### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'u.deleted' in 'where clause'
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Unknown column 'u.deleted' in 'where clause'
